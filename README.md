@@ -3,6 +3,8 @@
 Using [OctoPrint's event hooks][hook] and this script, Kodi can display
 usefully information from OctoPrint.
 
+![screenshot](screenshot/print_completed_kodi_notification.png?raw=true "screenshot")
+
 Something like the following will need to get added to ```config.yaml```:
 
 ```events:

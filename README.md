@@ -7,7 +7,8 @@ usefully information from OctoPrint.
 
 Something like the following will need to get added to ```config.yaml```:
 
-```events:
+```
+events:
   enabled: True
   subscriptions:
   - event: Disconnected
